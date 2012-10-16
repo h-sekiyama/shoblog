@@ -25,7 +25,7 @@ var Builder = {
   // note: For Firefox < 1.5, OPTION and OPTGROUP tags are currently broken,
   //       due to a Firefox bug
   node: function(elementName) {
-    elementName = elementName.toUpperCase();
+  //  elementName = elementName.toUpperCase();
 
     // try innerHTML approach
     var parentTag = this.NODEMAP[elementName] || 'div';

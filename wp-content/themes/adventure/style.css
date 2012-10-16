@@ -227,14 +227,14 @@ html > body #bar li a:hover {-webkit-transition: color 0.4s ease-in-out;-moz-tra
 .eightyfive .content{background:url(images/85.png); border: 3px solid #343131;}
 .label {
 	padding-top:5px;
-	text-transform:uppercase;
+	/*text-transform:uppercase;*/
 	font-weight:100;
 	font-size:18px;
 	top: 10px;
 }
 .label a {
-	color:#000;
-	text-transform:uppercase;
+	color:#881111;
+	/*text-transform:uppercase;*/
 	font-weight: 100;
 	font-size: 18px;
 }
