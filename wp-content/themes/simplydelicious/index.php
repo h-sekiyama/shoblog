@@ -18,7 +18,7 @@
                                                         <?php $myExcerpt = get_the_excerpt(); $tags = array("<p>", "</p>"); $myExcerpt = str_replace($tags, "", $myExcerpt); echo $myExcerpt; ?>
                                                         <p class="ribbon_shobon">
                                                         <a href="<?php the_permalink() ?>"><img src="http://shobon.hotcom-web.com/wordpress/wp-content/themes/simplydelicious/img/img_10.gif" /></a></p>
-                                                        <p class="read_continue"><a href="<?php the_permalink() ?>" >つづきを読む</a></p>
+                                                        <p class="read_continue"><a href="<?php the_permalink() ?>" >(´･ω･`)つ つづきを読む</a></p>
                                                   </div><!-- /.featured-info -->
 
                       <?php endwhile;?>
